@@ -253,7 +253,7 @@ button:hover {
 
 .image-header {
   margin-left: 1rem;
-  background-color: rgb(158, 158, 158); width: 17rem;
+  background-color: rgb(158, 158, 158); width: 35rem;
 
 }
 
@@ -262,4 +262,11 @@ button:hover {
   margin-top: 2rem;
   margin-left: 2rem;
   border: solid 8px;
+}
+
+.specifications{
+  background-color:#ddd;
+  flex: content; width: 32rem;
+
+
 }
