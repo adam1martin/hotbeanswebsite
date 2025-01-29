@@ -253,7 +253,7 @@ button:hover {
 
 .image-header {
   margin-left: 1rem;
-  background-color: rgb(158, 158, 158); width: 35rem;
+  background-color: rgb(158, 158, 158); width: 37rem;
 
 }
 
@@ -269,4 +269,9 @@ button:hover {
   flex: content; width: 32rem;
 
 
+}
+
+.the-list {
+  background-color: white;
+  margin-top: 2rem;
 }
