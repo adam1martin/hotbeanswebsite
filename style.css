@@ -235,3 +235,31 @@ button:hover {
   border: solid 8px;
   
 }
+
+.flex {
+  display: flex;
+}
+
+.image-text {
+  flex: 1;
+  height: 12rem;
+  border: solid;
+  border: solid;
+  margin: 2rem;
+  padding: 1rem;
+  
+
+}
+
+.image-header {
+  margin-left: 1rem;
+  background-color: rgb(158, 158, 158); width: 17rem;
+
+}
+
+.images {
+  width: 15rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  border: solid 8px;
+}
