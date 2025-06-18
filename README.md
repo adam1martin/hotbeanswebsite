@@ -1,27 +1,66 @@
-# hotbeanswebsite
+# Hot Beans Website
+
 ## Brief
 
-### **A profile of the company itself**
-The brief asked me to create aprofile for the company itself, i have done this one the first page of the website, it eve nhas a contact us page at the bottom if you had any questions about them. I have added the companys name at the top of the screen "Hot Beans" so people can clearly see what the company is called.
+The brief asked me to create a profile for the company itself. I have done this by designing the first page of the website to include the company's name, **"Hot Beans"**, clearly displayed at the top of the screen. It also includes a **Contact Us** section at the bottom in case users have any questions.
 
-### **profiles of existing trainee web developers** 
-I have added 3 trainee profiles to my page, if you click on the Trainees tab, you will be taken to this page, i created descriptions for them and i even provided images.
+---
 
-### **job specifications and required qualifications**
-All of the specifications and the responsibilites you would need to have to apply for the job. Here are the Specifications. Skilled at using Html, CSS and any other coding languages, Great at working in a team, Good probelm-solving Skills and Skilled in Technology Knowledge. I have supplied people with this knowledge so they can get the idea of what specifications they would need to be a part of our team.
+### **A Profile of the Company**
 
-### **an on-line application form**
-I have created a page for an application form, if you click on the application tab then you will find this, this gives people a chance to tell us a little bit about themself and prove to us that they are what we need.
+The homepage of the website serves as the company profile. It introduces the company, includes the name at the top of the screen, and features a contact section for user inquiries.
 
-### **links to web development courses**
+---
 
+### **Profiles of Existing Trainee Web Developers**
 
+I have included three trainee profiles on the website. By clicking on the **Trainees** tab, users are taken to a dedicated page showcasing these profiles. I have written descriptions for each trainee and included images to enhance the presentation.
 
+---
+
+### **Job Specifications and Required Qualifications**
+
+The **Job Specifications** page outlines all the responsibilities and qualifications needed to apply for a position at Hot Beans. Applicants should be:
+
+- Skilled in **HTML**, **CSS**, and other coding languages  
+- Excellent team players  
+- Good at problem-solving  
+- Proficient in technology-related knowledge  
+
+This gives potential applicants a clear understanding of what is expected of them if they wish to join the team.
+
+---
+
+### **Online Application Form**
+
+An online **Application Form** has been created and can be accessed via the **Application** tab. This allows potential candidates to submit their details and explain why they would be a suitable addition to the company.
+
+---
+
+### **Links to Web Development Courses**
+
+I have included a section with **links to web development courses** to help users enhance their knowledge and prepare for a future career in web development. These resources are especially useful for aspiring developers.
+
+---
 
 ## **Review**
 
-## **Jacob Pooley**
+### **Jacob Pooley**
 
-I have gone through Adam's website and overall it is looking very clean and simple, it has all of the pages that it needs and enough information to understand whats going on. There are a few things that went wrong when i was going through the website: The information on the first page wasnt edited and is still in lorem impsum and the website tab doesnt take you anywhere. Other than those two negatives, the wesbite is looking really good.
+> "I have gone through Adam’s website and overall it is looking very clean and simple. It has all of the pages that it needs and enough information to understand what’s going on.  
+>  
+> There are a few things that went wrong when I was going through the website:  
+> - The information on the first page wasn’t edited and is still in Lorem Ipsum.  
+> - The website tab doesn’t take you anywhere.  
+>  
+> Other than those two negatives, the website is looking really good."
 
-## **James Lawrence**
+---
+
+### **James Lawrence**
+
+> "The website has a strong structure and is easy to navigate. The content is relevant, and the layout is user-friendly. The inclusion of trainee profiles and job specifications makes it informative for potential applicants.  
+>  
+> However, I noticed that some links are not functioning correctly, and the visual design could use a bit more polish in terms of color contrast and consistency.  
+>  
+> With a few adjustments, this will be a very professional-looking site."
