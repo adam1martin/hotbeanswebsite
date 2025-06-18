@@ -42,6 +42,51 @@ An online **Application Form** has been created and can be accessed via the **Ap
 I have included a section with **links to web development courses** to help users enhance their knowledge and prepare for a future career in web development. These resources are especially useful for aspiring developers.
 
 ---
+## Website Testing and Screenshots
+
+To ensure the Hot Beans website functions correctly and delivers a good user experience, I carried out a series of tests on various pages and features. Below are some screenshots with explanations of what was tested and verified.
+
+### Homepage Test
+
+![Homepage Screenshot](/images/homepage_test.png)
+
+I tested the homepage to confirm that the company name is clearly displayed and the layout appears correctly across different screen sizes. The contact section at the bottom is functional and properly formatted.
+
+---
+
+### Navigation Bar Functionality
+
+![Navigation Test](/images/navigation_test.png)
+
+This test shows the working navigation bar. Each tab (e.g., Home, Trainees, Application) was clicked to ensure it directs users to the correct page without any errors or broken links.
+
+---
+
+### Trainee Profiles Page
+
+![Trainee Profiles Test](/images/trainee_profiles_test.png)
+
+I tested the Trainee Profiles page to make sure the images and descriptions load correctly. The profiles were checked for readability and consistency.
+
+---
+
+### Application Form Test
+
+![Application Form Screenshot](/images/application_form_test.png)
+
+The online application form was tested to verify that input fields and the submission button work as expected. This ensures users can submit their information without issues.
+
+---
+
+### Responsive Design Check
+
+![Mobile View Test](/images/mobile_view_test.png)
+
+This screenshot demonstrates that the website is responsive and adjusts appropriately when viewed on mobile devices. Text, images, and layout all remain clear and accessible.
+
+---
+
+These tests confirm that the website is fully functional, visually consistent, and user-friendly across different platforms.
 
 ## **Review**
 
